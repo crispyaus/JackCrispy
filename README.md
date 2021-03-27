@@ -10,7 +10,7 @@
   <tr>
     <td valign="top">
       <h3>Most starred repos: </h3>
-            <h6>⭐️&nbsp;&nbsp;&nbsp;52&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;2,502 – <a href='https://github.com/dogegarden/dogehouse.js'>dogehouse.js</a></h6> 
+            <h6>⭐️&nbsp;&nbsp;&nbsp;58&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;3,651 – <a href='https://github.com/dogegarden/dogehouse.js'>dogehouse.js</a></h6> 
     </td>
     <td valign="top">
       <h3>My stack: </h3>
@@ -21,5 +21,5 @@
 </table>
 
 <hr>
-<h4 align="center">Other – <a href='https://crisp.codes' target="_blank">crisp.codes</a><h4>
+<h4 align="center"><a href='https://crisp.codes' target="_blank">crisp.codes</a><h4>
     
