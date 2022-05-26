@@ -1,5 +1,5 @@
 
-<h1 align="center">I'm Crispy (｡◕‿◕｡)</h1> 
+<h1 align="center">I'm Crispy 👋</h1> 
 <p align="center">
     <img style="text-align: center" src="https://discord.c99.nl/widget/theme-4/522503261941661727.png">
 </p>
