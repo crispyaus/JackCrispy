@@ -1,5 +1,5 @@
 
-<h1 align="center">I'm Jack Christie 👋</h1> 
+<h1 align="center">I'm Jack 👋</h1> 
 
 <p align="center">
     <img style="text-align: center" src="https://discord.c99.nl/widget/theme-4/522503261941661727.png">
@@ -16,5 +16,5 @@
 </p>
 
 <h1></h1>
-<h4 align="center"><a href='https://permissions.tech' target="_blank">permissions.tech</a><h4>
-    
+<!-- <h4 align="center"><a href='https://permissions.tech' target="_blank">permissions.tech</a><h4>
+     -->
