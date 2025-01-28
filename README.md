@@ -1,5 +1,17 @@
-<h3 align="center">fullstack web, bots, on-chain, dapps, systems engineer, ai<br></h3>
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jackcrispy&show_icons=true&theme=synthwave">
-</p>
-<h1></h1>
+## 🕶️ Hey!...
+I am a Full Stack Software Developer, building:<br/>
+
+➪ Fullstack Web Apps <br/>
+➪ Telegram, Discord & Slack Bots <br/>
+➪ AI & Machine Learning <br/>
+➪ Systems Engineering <br/>
+➪ Crypto & On-Chain Bots <br/>
+➪ Data Scraping 
+
+## 📫 Contact
+discord: crispyaus
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=crispyaus&left_color=green&right_color=red)
+
+
+ 
